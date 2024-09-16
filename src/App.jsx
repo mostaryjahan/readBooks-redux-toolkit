@@ -2,7 +2,7 @@ import BookList from "./components/BookList";
 
 const App = () => {
   return (
-    <div>
+    <div className="App">
       <BookList />
     </div>
   );
